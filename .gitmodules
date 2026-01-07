@@ -1,0 +1,3 @@
+[submodule "matSolve"]
+	path = matSolve
+	url = https://github.com/alexislaurent1321-gif/matSolve.git
