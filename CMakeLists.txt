@@ -51,7 +51,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(libs/matSolve)
 
-add_executable(${PROJECT_NAME} src/example.cpp)
+add_executable(${PROJECT_NAME} src/main.cpp)
 
 target_link_libraries(${PROJECT_NAME} PRIVATE matSolve)
 
