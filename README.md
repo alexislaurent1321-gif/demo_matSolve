@@ -1,7 +1,7 @@
 Test de la bibliothèque matSolve
 
 # Installation et compilation
-Penser à installer le sous-module matSolve avec la commande `git submodule update --init --recursive` après avoir cloné le dépôt ou avec la commande `git clone --recurse-submodules https://github.com/alexislaurent1321-gif/demo_matSolve` en clonant le dépôt.
+Penser à installer le sous-module matSolve avec la commande `git submodule update --init --recursive` après avoir cloné le dépôt ou avec la commande `git clone --recurse-submodules https://github.com/alexislaurent1321-gif/demo_matSolve.git` en clonant le dépôt.
 La compilation se fait avec GNU.
 
 # Organisation du programme
